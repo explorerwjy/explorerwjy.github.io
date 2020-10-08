@@ -1,2 +1,2 @@
 # explorerwjy.github.io
-# My Persion website
+# My Personal website
